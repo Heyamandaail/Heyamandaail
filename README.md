@@ -17,8 +17,6 @@
 </p>
 
 <p align="left">
-  <a href="amanda-ail@hotmail.com" title="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-0e76a8?style=flat-square&labelColor=0e76a8&logo=outlook&logoColor=white&link=amanda-ail@hotmail.com" alt="Outlook"/></a>
   <a href="https://www.linkedin.com/in/amanda-ail/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-ail/" alt="LinkedIn"/></a>
   <a href="https://wa.me/5551985682177" title="WhatsApp">
